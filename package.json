@@ -1,0 +1,23 @@
+{
+  "name": "digital-agency",
+  "version": "1.0.0",
+  "description": "1. git status\r 2. git add .\r 3. git commit -m \"coment\"\r 4. git push origin branch_name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IstemesovMagzhan/digital-agency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IstemesovMagzhan/digital-agency/issues"
+  },
+  "homepage": "https://github.com/IstemesovMagzhan/digital-agency#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
